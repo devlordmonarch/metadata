@@ -1,0 +1,15 @@
+{
+    "name": "Monarch Genesis",
+    "":"",
+    "image": "https://raw.githubusercontent.com/devlordmonarch/metadata/main/image/Monarch-Egg.gif",
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Dark"
+      },
+      {
+        "trait_type": "status",
+        "value": "unhatched"
+      }
+    ]
+  }
