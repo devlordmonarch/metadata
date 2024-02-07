@@ -1,7 +1,8 @@
 {
-    "name": "Monarch Genesis",
-    "":"",
+    "name": "Monarch Genesis ERC404",
+    "description":"Monarch is a collection and fungible 8888 token on-chain game powered by ERC404. The year of dragon is upon us.",
     "image": "https://raw.githubusercontent.com/devlordmonarch/metadata/main/image/Monarch-Egg.gif",
+    "external_url":"https://monarch.game",
     "attributes": [
       {
         "trait_type": "background",
